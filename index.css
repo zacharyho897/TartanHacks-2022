@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .websiteBody{
   margin: 0;
 }@media screen and (min-width:0px) and (max-width:493px) {
@@ -411,7 +415,6 @@
   margin-top:0px;
   margin-bottom:5px;
   min-height:12px;
-  content:url(assets/images/space_neo.png);
 }
 .space-neo-outer{
   pointer-events:none;
@@ -544,7 +547,7 @@
   margin-top:0px;
   margin-bottom:256px;
   min-height:849px;
-  background-image:url(assets/images/Sec_1_BG.png);
+  background-image:url("https://cdn.glitch.global/092dc801-0e7f-4aa2-a574-ba6b75acc945/pexels-photo-1172064-min.png?v=1644028860252");
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
@@ -805,7 +808,7 @@
   margin-top:0px;
   margin-bottom:0px;
   min-height:608px;
-  background-image:url(assets/images/Sec_2_BG.png);
+  background-image:url("https://cdn.glitch.global/092dc801-0e7f-4aa2-a574-ba6b75acc945/pexels-maria-orlova-4969872-min.jpg?v=1644031792913");
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
@@ -950,7 +953,7 @@
   margin-top:-605px;
   margin-bottom:570px;
   min-height:845px;
-  background-image:url(assets/images/Sec_3_BG.png);
+  background-image:url("https://cdn.glitch.global/092dc801-0e7f-4aa2-a574-ba6b75acc945/pexels-photo-2414454.jpeg?v=1644038476635");
   background-position:center;
   background-size:contain;
   background-repeat:no-repeat;
@@ -2350,7 +2353,6 @@
   margin-top:1px;
   margin-bottom:4.25px;
   min-height:11.75px;
-  content:url(assets/images/space_neo_1.png);
 }
 .space-neo-2-outer{
   pointer-events:none;
@@ -3058,7 +3060,6 @@
   margin-top:0px;
   margin-bottom:0px;
   min-height:17px;
-  content:url(assets/images/space_neo_2.png);
 }
 .space-neo-1-outer{
   pointer-events:none;
@@ -3190,7 +3191,7 @@
   margin-top:0px;
   margin-bottom:0px;
   min-height:1096px;
-  background-image:url(assets/images/Sec_1_BG_1.png);
+  background-image:url("https://cdn.glitch.global/092dc801-0e7f-4aa2-a574-ba6b75acc945/pexels-photo-1172064-min.png?v=1644028860252");
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
@@ -3449,7 +3450,7 @@
   margin-top:0px;
   margin-bottom:0px;
   min-height:866px;
-  background-image:url(assets/images/Sec_2_BG_1.png);
+  background-image:url("https://cdn.glitch.global/092dc801-0e7f-4aa2-a574-ba6b75acc945/pexels-maria-orlova-4969872-min.jpg?v=1644031792913");
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
@@ -3653,7 +3654,7 @@
   margin-top:-81px;
   margin-bottom:-75px;
   min-height:794px;
-  background-image:url(assets/images/Sec_3_BG_1.png);
+  background-image:url("https://cdn.glitch.global/092dc801-0e7f-4aa2-a574-ba6b75acc945/pexels-photo-2414454.jpeg?v=1644038476635");
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
@@ -4996,7 +4997,6 @@
   margin-top:0px;
   margin-bottom:0px;
   min-height:17px;
-  content:url(assets/images/space_neo_3.png);
 }
 .space-neo-2-outer{
   pointer-events:none;
@@ -5310,8 +5310,6 @@
   width:100%;
   margin-left:0;
   height:5538px;
-  min-width:1097px;
-  max-width:1693px;
   margin:auto;
   background-color:rgba(0, 0, 0, 1);
   overflow:hidden;
@@ -5334,7 +5332,6 @@
   width:calc(100% - 0px - 0px);
   top:0px;
   bottom:0;
-  max-width:1693px;
   min-width:1097px;
 }
 .nav-outer{
@@ -5533,9 +5530,7 @@
   margin-top:-80px;
   margin-bottom:18px;
   min-height:62px;
-  background-color:rgba(255, 255, 255, 0.009999999776482582);
-  backdrop-filter:blur(60px);
-  -webkit-backdrop-filter:blur(60px);
+  background-color:black;
 }
 .bg-blur-outer{
   pointer-events:none;
@@ -5781,7 +5776,6 @@
   margin-top:0px;
   margin-bottom:0px;
   min-height:17px;
-  content:url(assets/images/space_neo_4.png);
 }
 .space-neo-outer{
   pointer-events:none;
@@ -5914,7 +5908,7 @@
   margin-top:0px;
   margin-bottom:0px;
   min-height:1096px;
-  background-image:url(assets/images/Sec_1_BG_2.png);
+  background-image:url("https://cdn.glitch.global/092dc801-0e7f-4aa2-a574-ba6b75acc945/pexels-photo-1172064-min.png?v=1644028860252");
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
@@ -6173,7 +6167,7 @@
   margin-top:0px;
   margin-bottom:0px;
   min-height:866px;
-  background-image:url(assets/images/Sec_2_BG_2.png);
+  background-image:url("https://cdn.glitch.global/092dc801-0e7f-4aa2-a574-ba6b75acc945/pexels-maria-orlova-4969872-min.jpg?v=1644031792913");
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
@@ -6378,7 +6372,7 @@
   margin-top:0px;
   margin-bottom:0px;
   min-height:794px;
-  background-image:url(assets/images/Sec_3_BG_2.png);
+  background-image:url("https://cdn.glitch.global/092dc801-0e7f-4aa2-a574-ba6b75acc945/pexels-photo-2414454.jpeg?v=1644038476635");
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
@@ -6830,7 +6824,6 @@
   margin-top:0px;
   margin-bottom:355px;
   min-height:276px;
-  content:url(assets/images/Mask_Group_6.png);
 }
 .Mask-Group-3-outer{
   pointer-events:none;
@@ -7973,7 +7966,6 @@
   margin-top:0px;
   margin-bottom:0px;
   min-height:17px;
-  content:url(assets/images/space_neo_5.png);
 }
 .space-neo-3-outer{
   pointer-events:none;
